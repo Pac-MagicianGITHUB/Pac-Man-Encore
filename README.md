@@ -7,4 +7,4 @@ The game is basically Pac-Man with some minor changes:
 
 Please enjoy!
 
-Pac-Man is a resestered trademark of Bandai Namco Entertainment Inc. & Midway Mfg Co.
+Pac-Man is a regestered trademark of Bandai Namco Entertainment Inc. & Midway Mfg Co.
